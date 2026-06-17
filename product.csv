@@ -1,11 +1,13 @@
-id,name,category,message,imageUrl,pageUrl,value
+## RECSRecommendations Upload File
+## RECS
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin
 
-P1001,iPhone 16,Electronics,Latest iPhone,https://mysite.com/img/iphone.jpg,https://mysite.com/pdp/iphone16.html,79999
+P1001,iPhone 16,Electronics,Latest iPhone,https://picsum.photos/200?1,79999,https://localhost:5500/p1.html,100,20
 
-P1002,Samsung S25,Electronics,Android Flagship,https://mysite.com/img/samsung.jpg,https://mysite.com/pdp/s25.html,69999
+P1002,Samsung S25,Electronics,Android Flagship,https://picsum.photos/200?2,69999,https://localhost:5500/p2.html,100,18
 
-P1003,Apple Watch,Wearables,Smart Watch,https://mysite.com/img/watch.jpg,https://mysite.com/pdp/watch.html,39999
+P1003,MacBook Air M4,Computers,Apple Laptop,https://picsum.photos/200?3,119999,https://localhost:5500/p3.html,50,25
 
-P1004,AirPods Pro,Audio,Wireless Earbuds,https://mysite.com/img/airpods.jpg,https://mysite.com/pdp/airpods.html,24999
+P1004,Apple Watch,Wearables,Smart Watch,https://picsum.photos/200?4,39999,https://localhost:5500/p4.html,80,15
 
-P1005,MacBook Air,Computers,Laptop,https://mysite.com/img/macbook.jpg,https://mysite.com/pdp/macbook.html,119999
+P1005,AirPods Pro,Audio,Wireless Earbuds,https://picsum.photos/200?5,24999,https://localhost:5500/p5.html,120,10
