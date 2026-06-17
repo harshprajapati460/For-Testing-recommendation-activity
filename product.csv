@@ -1,0 +1,11 @@
+id,name,category,message,imageUrl,pageUrl,value
+
+P1001,iPhone 16,Electronics,Latest iPhone,https://mysite.com/img/iphone.jpg,https://mysite.com/pdp/iphone16.html,79999
+
+P1002,Samsung S25,Electronics,Android Flagship,https://mysite.com/img/samsung.jpg,https://mysite.com/pdp/s25.html,69999
+
+P1003,Apple Watch,Wearables,Smart Watch,https://mysite.com/img/watch.jpg,https://mysite.com/pdp/watch.html,39999
+
+P1004,AirPods Pro,Audio,Wireless Earbuds,https://mysite.com/img/airpods.jpg,https://mysite.com/pdp/airpods.html,24999
+
+P1005,MacBook Air,Computers,Laptop,https://mysite.com/img/macbook.jpg,https://mysite.com/pdp/macbook.html,119999
